@@ -11,6 +11,8 @@
 
 이 예제 코드는 Python 3.5.1, 3.6.3에서 동작을 확인하였습니다. 아래와 같이 환경을 구축하시면 됩니다.
 
+도표에 한글 폰트가 깨지는 경우에는 [나눔고딕 폰트](http://hangeul.naver.com/download.nhn)를 설치하시기 바랍니다.
+
 
 ```sh
 $ virtualenv -p python3 venv
